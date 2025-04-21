@@ -1,14 +1,14 @@
-# Falcon kOS Script
+# __Falcon kOS Script__
 
-## Dependencies:
-ModuleManager
+## **Dependencies:**
+-ModuleManager
 
-Kerbal Operating System (kOS)
+-Kerbal Operating System (kOS)
 
-Tundra Exploitation
+-Tundra Exploitation
 
-Launch Towards Pack
+-Launch Towards Pack
 
-Kerbal Reusability Expansion
+-Kerbal Reusability Expansion
 
-Conformal Decal
+-Conformal Decal
