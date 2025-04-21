@@ -1,6 +1,6 @@
 # Falcon kOS Script
 
-Dependencies:
+## Dependencies:
 ModuleManager
 Kerbal Operating System (kOS)
 Tundra Exploitation
