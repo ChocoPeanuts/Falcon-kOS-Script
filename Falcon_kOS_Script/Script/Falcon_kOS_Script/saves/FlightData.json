@@ -1,0 +1,181 @@
+{
+    "entries": [
+        {
+            "value": "CurtModeList",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "entries": [
+                
+            ],
+            "$type": "kOS.Safe.Encapsulation.Lexicon"
+        },
+        {
+            "value": "ShipTime",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": 11.399999745190144,
+            "$type": "kOS.Safe.Encapsulation.ScalarDoubleValue"
+        },
+        {
+            "value": "LaunchTime",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": 30.899999532848597,
+            "$type": "kOS.Safe.Encapsulation.ScalarDoubleValue"
+        },
+        {
+            "value": "EngineList",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "entries": [
+                {
+                    "value": "F9_MainEngine",
+                    "$type": "kOS.Safe.Encapsulation.StringValue"
+                },
+                {
+                    "entries": [
+                        {
+                            "value": "CurtMode",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": "Center",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": "Status",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": true,
+                            "$type": "kOS.Safe.Encapsulation.BooleanValue"
+                        },
+                        {
+                            "value": "Mode",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "items": [
+                                {
+                                    "value": "Full",
+                                    "$type": "kOS.Safe.Encapsulation.StringValue"
+                                },
+                                {
+                                    "value": "Three",
+                                    "$type": "kOS.Safe.Encapsulation.StringValue"
+                                },
+                                {
+                                    "value": "Center",
+                                    "$type": "kOS.Safe.Encapsulation.StringValue"
+                                }
+                            ],
+                            "$type": "kOS.Safe.Encapsulation.ListValue"
+                        }
+                    ],
+                    "$type": "kOS.Safe.Encapsulation.Lexicon"
+                },
+                {
+                    "value": "F9_VacEngine",
+                    "$type": "kOS.Safe.Encapsulation.StringValue"
+                },
+                {
+                    "entries": [
+                        {
+                            "value": "CurtMode",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": false,
+                            "$type": "kOS.Safe.Encapsulation.BooleanValue"
+                        },
+                        {
+                            "value": "Status",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": false,
+                            "$type": "kOS.Safe.Encapsulation.BooleanValue"
+                        },
+                        {
+                            "value": "Mode",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "items": [
+                                
+                            ],
+                            "$type": "kOS.Safe.Encapsulation.ListValue"
+                        }
+                    ],
+                    "$type": "kOS.Safe.Encapsulation.Lexicon"
+                },
+                {
+                    "value": "F9_39ABase",
+                    "$type": "kOS.Safe.Encapsulation.StringValue"
+                },
+                {
+                    "entries": [
+                        {
+                            "value": "CurtMode",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": false,
+                            "$type": "kOS.Safe.Encapsulation.BooleanValue"
+                        },
+                        {
+                            "value": "Status",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "value": true,
+                            "$type": "kOS.Safe.Encapsulation.BooleanValue"
+                        },
+                        {
+                            "value": "Mode",
+                            "$type": "kOS.Safe.Encapsulation.StringValue"
+                        },
+                        {
+                            "items": [
+                                
+                            ],
+                            "$type": "kOS.Safe.Encapsulation.ListValue"
+                        }
+                    ],
+                    "$type": "kOS.Safe.Encapsulation.Lexicon"
+                }
+            ],
+            "$type": "kOS.Safe.Encapsulation.Lexicon"
+        },
+        {
+            "value": "LaunchT",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": 12.039999954402447,
+            "$type": "kOS.Safe.Encapsulation.ScalarDoubleValue"
+        },
+        {
+            "value": "fileVer",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "items": [
+                {
+                    "value": "F9",
+                    "$type": "kOS.Safe.Encapsulation.StringValue"
+                },
+                {
+                    "value": "1.0",
+                    "$type": "kOS.Safe.Encapsulation.StringValue"
+                }
+            ],
+            "$type": "kOS.Safe.Encapsulation.ListValue"
+        }
+    ],
+    "$type": "kOS.Safe.Encapsulation.Lexicon"
+}
