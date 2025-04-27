@@ -5,6 +5,8 @@
 
 - Kerbal Operating System (kOS)
 
+- Trajectories
+
 - Tundra Exploitation
 
 - Launch Towards Pack
