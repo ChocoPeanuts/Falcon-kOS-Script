@@ -7,7 +7,7 @@
 
 - Trajectories
 
-- Tundra Exploitation
+- Tundra Exploration
 
 - Launch Towards Pack
 
